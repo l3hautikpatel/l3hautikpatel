@@ -78,6 +78,10 @@
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=vite" alt="vite logo" ><br><sub><sup>Vite</td>
     <td align="center"><img height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="xcode logo" ><br><sub><sup>Xcode</td>
   </tr>
+      
+  <tr>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=typescript" alt="androidstudio logo" ><br><sub><sup>TypeScript</td>
+  </tr>
 
 </table>
 
